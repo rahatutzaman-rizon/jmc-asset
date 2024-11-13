@@ -1,0 +1,33 @@
+{
+    "malibag": [
+      { "id": 1, "title": "Ronak Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 2, "title": "Joba Mansion", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 3, "title": "JMC Housing", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 4, "title": "Pinpoint Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" }
+    ],
+    "gulshan": [
+      { "id": 5, "title": "Gulshan 001", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 6, "title": "Gulshan 002", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 7, "title": "Gulshan 003", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 8, "title": "Gulshan 004", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" }
+    ],
+    "rampura": [
+      { "id": 9, "title": "Ronak Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 10, "title": "Joba Mansion", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 11, "title": "JMC Housing", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 12, "title": "Pinpoint Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" }
+    ],
+    "baridhara": [
+      { "id": 13, "title": "JMC Housing", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 14, "title": "Ronak Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 15, "title": "Pinpoint Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 16, "title": "Joba Mansion", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" }
+    ],
+    "banasree": [
+      { "id": 17, "title": "Ronak Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 18, "title": "JMC Housing", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 19, "title": "Pinpoint Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" },
+      { "id": 20, "title": "Ronak Villa", "image": "https://i.ibb.co/bsCNCqf/chuttersnap-Iboom5tbfvs-unsplash.jpg" }
+    ]
+  }
+  
