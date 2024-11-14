@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 // This function is necessary for static site generation
 export async function generateStaticParams() {
-  const res = await fetch('https://asset-server.bdcare.vip/projects');
+  const res = await fetch('https://jmc-asset-server.vercel.app/projects');
   const projects = await res.json();
   
   return projects.map((project) => ({
@@ -13,7 +13,7 @@ export async function generateStaticParams() {
 }
 
 async function getProject(id) {
-  const res = await fetch(`https://asset-server.bdcare.vip/projects/${id}`);
+  const res = await fetch(`https://jmc-asset-server.vercel.app/projects/${id}`);
   if (!res.ok) {
     throw new Error('Failed to fetch project');
   }

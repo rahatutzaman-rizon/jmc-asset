@@ -13,6 +13,8 @@ import Player from './(components)/Player';
 import AOS from 'aos'; // Import AOS
 import 'aos/dist/aos.css'; // Import AOS CSS styles
 import OurServices from './(components)/service';
+import ProjectPage from './(components)/project/page';
+import ClientsReviews from './(client)/client/page';
 
 export default function Home() {
   const [bannerLoading, setBannerLoading] = useState(true);
@@ -50,9 +52,9 @@ export default function Home() {
         <About />
       </section>
 
-      {/* <section data-aos="fade-in">
+       <section data-aos="fade-in">
         <ProjectPage />
-      </section> */}
+      </section>
 
       <section data-aos="fade-in">
         <Player />
@@ -61,6 +63,13 @@ export default function Home() {
       <section data-aos="fade-in">
         <FeaturedProperties />
       </section>
+      
+      <section data-aos="fade-in">
+        <ClientsReviews></ClientsReviews>
+      </section>
+
+
+
 
       
 

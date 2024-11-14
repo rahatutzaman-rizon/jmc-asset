@@ -18,7 +18,7 @@ export default function ProjectPage() {
 
   const fetchProjectsData = async () => {
     try {
-      const response = await fetch('https://asset-server.bdcare.vip/projects');
+      const response = await fetch('https://jmc-asset-server.vercel.app/projects');
       const data = await response.json();
       setProjects(data);
     } catch (error) {

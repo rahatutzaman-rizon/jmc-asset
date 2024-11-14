@@ -14,6 +14,7 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 import auth from "../firebase/config";
+import Spinner from "../Reusable/Spinner";
 
 const Login = () => {
   const router = useRouter();
@@ -167,7 +168,7 @@ const Login = () => {
                 hover:bg-red-600 transition-colors flex justify-center items-center"
             >
               {googleLoading ? (
-                <Spinner />
+                <Spinner/>
               ) : (
                 <span className="flex items-center space-x-2">
                   <svg
