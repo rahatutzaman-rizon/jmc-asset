@@ -13,7 +13,7 @@ import send from '../../Asset/footer/Icon.png';
 export default function Footer() {
   return (
     <footer className="bg-[#002233] text-[#DDF0FF] py-10 md:py-20 ">
-      <div className="container mx-auto px-4 text-left ">
+      <div className="container mx-auto px-8 text-center ">
         <div className="mb-8">
           <Image src={logo} alt="JMC Asset Management" width={100} height={40} className="ml-0 md:ml-24 lg:ml-2" />
         </div>
